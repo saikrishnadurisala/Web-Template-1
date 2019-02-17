@@ -1,0 +1,9 @@
+nav{
+    background-color: #563d7c;
+}
+nav a, a:hover{
+    color: white;
+}
+#cards{
+    margin-top: 30px;
+}

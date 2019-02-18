@@ -4,6 +4,11 @@ nav{
 nav a, a:hover{
     color: white;
 }
-#cards{
+.cards{
     margin-top: 30px;
+}
+.subbox{
+    height: 150px;
+    color: white;
+    background-color: #563d7c;
 }
